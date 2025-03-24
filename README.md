@@ -8,7 +8,14 @@ Hello! I’m a **QA Engineer / Software Test Engineer** with a keen eye for deta
 🔹 **Test Management** – Jira, Confluence, Trello   
 🔹 **API Testing** – Postman  
 🔹 **CI/CD & DevOps** – GitHub Actions    
-🔹 **Scripting & Tools** – Python, OOP, HTML, CSS, SQL  
+🔹 **Scripting & Tools** – Python, OOP, HTML, CSS, SQL    
+
+### 🎯 My Approach  
+I believe quality is a shared responsibility—from development to deployment. My mission is to enhance software reliability by implementing effective test strategies, automation, and continuous improvement practices.
+
+### 📩 Let's Connect
+### 💼 [[LinkedIn Profile](https://www.linkedin.com/in/md-alif-khondokar/)]
+### 📧 Email: [mdalifkhondokar11@gmail.com]
 
 <!--
 **mdalifkhondokar/mdalifkhondokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
