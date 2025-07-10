@@ -15,7 +15,7 @@ I believe quality is a shared responsibility—from development to deployment. M
 
 ### 📩 Let's Connect
 ### 💼 [[LinkedIn Profile](https://www.linkedin.com/in/md-alif-khondokar/)]
-### 📧 Email: [mdalifkhondokar11@gmail.com]
+### 📧 Email: [khondokarmdalif7@gmail.com]
 
 <!--
 **mdalifkhondokar/mdalifkhondokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
