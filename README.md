@@ -1,4 +1,4 @@
-## 👨‍💻 About me! 👋
+Md Alif Khondokar
 
 Hello! I’m a **QA Engineer / Software Test Engineer** with a keen eye for detail and a passion for delivering high-quality software. I specialize in both manual and automated testing, ensuring smooth and bug-free experiences for end users.
 
